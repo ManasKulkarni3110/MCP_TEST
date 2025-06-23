@@ -1,0 +1,4 @@
+fastmcp
+pydantic
+python-dateutil
+typing-extensions
